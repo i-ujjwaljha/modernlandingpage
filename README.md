@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Modern Bank Webite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can visit the live website using this link: https://modern-ebank-site.netlify.app/
 
 ## Available Scripts
 
